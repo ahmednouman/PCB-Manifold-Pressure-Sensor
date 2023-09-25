@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\OPTO_PRESSURE_Project\Project Outputs for OPTO_PRESSURE_Project\Pick Place for OPTO_PRESSURE.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/08/19
+Time:       16:27
+Revision:   674
+Variant:    No variations
+Units used: mm
+
+Designator Comment     Layer       Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                            
+U4         OPB350L250  BottomLayer OPB350L250         92.0000      -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U3         OPB350L250  BottomLayer OPB350L250         67.0000      -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U2         OPB350L250  BottomLayer OPB350L250         42.0000      -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U1         OPB350L250  BottomLayer OPB350L250         17.0550      -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+J10        CON3        TopLayer    XA3                116.5000     -18.0000     180      CON                                                    
+J9         CON3        TopLayer    XA3                216.5000     -18.0000     180      CON                                                    
+J8         CON3        TopLayer    XA3                191.5000     -18.0000     180      CON                                                    
+J7         CON3        TopLayer    XA3                166.5000     -18.0000     180      CON                                                    
+J6         CON3        TopLayer    XA3                141.5000     -18.0000     180      CON                                                    
+J5         CON3        TopLayer    XA3                91.5000      -18.0000     180      CON                                                    
+J4         CON3        TopLayer    XA3                66.5000      -18.0000     180      CON                                                    
+J3         CON3        TopLayer    XA3                41.5000      -18.0000     180      CON                                                    
+J2         CON3        TopLayer    XA3                16.5000      -18.0000     180      CON                                                    
+J18        VALVE       TopLayer    XA2                165.2500     -4.5000      180      "Header, 2-Pin"                                        
+J17        VALVE       TopLayer    XA2                144.3500     -4.5000      180      "Header, 2-Pin"                                        
+J19        VALVE       TopLayer    XA2                218.3500     -4.5000      180      "Header, 2-Pin"                                        
+J16        VALVE       TopLayer    XA2                122.8500     -4.5000      180      "Header, 2-Pin"                                        
+J15        VALVE       TopLayer    XA2                101.3500     -4.5000      180      "Header, 2-Pin"                                        
+J14        VALVE       TopLayer    XA2                79.8500      -4.5000      180      "Header, 2-Pin"                                        
+J13        VALVE       TopLayer    XA2                58.3500      -4.5000      180      "Header, 2-Pin"                                        
+J12        VALVE       TopLayer    XA2                36.8500      -4.5000      180      "Header, 2-Pin"                                        
+J11        VALVE       TopLayer    XA2                15.3500      -4.5000      180      "Header, 2-Pin"                                        
+L2         744231091   TopLayer    WE-CNSW-0805       207.0000     -19.0000     270      "SMD Common Mode Noise Suppressor WE-CNSW, Z = 90 Ohm" 
+L1         744231091   TopLayer    WE-CNSW-0805       218.5000     -11.0000     180      "SMD Common Mode Noise Suppressor WE-CNSW, Z = 90 Ohm" 
+C12        "Cap Semi"  TopLayer    1608[0603]         218.7000     -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C11        "Cap Semi"  TopLayer    1608[0603]         193.7000     -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C10        "Cap Semi"  TopLayer    1608[0603]         168.7000     -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C9         "Cap Semi"  TopLayer    1608[0603]         143.7000     -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C8         "Cap Semi"  TopLayer    1608[0603]         93.7000      -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C7         "Cap Semi"  TopLayer    1608[0603]         68.7000      -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C6         "Cap Semi"  TopLayer    1608[0603]         43.6000      -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C5         "Cap Semi"  TopLayer    1608[0603]         18.7000      -37.0000     180      "Capacitor (Semiconductor SIM Model)"                  
+C4         1u          TopLayer    CAPC1608X09N(0603) 207.0001     -21.9999     360      "Capacitor, Ceramic, 25V, ±10%, X7R, -55°C to 125°C"   
+C3         47u/10V     TopLayer    CAPC2012X13N(0805) 207.0002     -15.9999     360      "Capacitor, Ceramic, 10V, ±20%, X5R, -55°C to 85°C"    
+C2         1uf         TopLayer    CAPC1608X09N(0603) 215.0001     -10.9999     360      "Capacitor, Ceramic, 25V, ±10%, X7R, -55°C to 125°C"   
+C1         47u/10V     TopLayer    CAPC2012X13N(0805) 221.3001     -11.0002     270      "Capacitor, Ceramic, 10V, ±20%, X5R, -55°C to 85°C"    
+J1         S40-PUDSS-1 BottomLayer S40B-PUDSS-1       192.0000     -7.1500      180      "Header, 20-Pin, Dual row"                             
+U6         OPB350L250  BottomLayer OPB350L250         167.0000     -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U5         OPB350L250  BottomLayer OPB350L250         142.0000     -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U8         OPB350L250  BottomLayer OPB350L250         217.0000     -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+U7         OPB350L250  BottomLayer OPB350L250         192.0000     -42.0000     0        "4-Pin Phototransistor Optocoupler"                    
+H1         SMTSO_M4_4  TopLayer    SMTSO_M4_4         204.5001     -33.0000     180      "SMD Standoff M4_4mm"                                  
+H2         SMTSO_M4_4  TopLayer    SMTSO_M4_4         29.5001      -33.0000     180      "SMD Standoff M4_4mm"                                  
+logo       ""          TopLayer    NAN_logo           -20.6470     -156.4950    360      ""                                                     
